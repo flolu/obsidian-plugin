@@ -8,6 +8,11 @@
 - [Obsidian](https://obsidian.md) is a **note taking** app based on Markdown files
 - It's **extensible**
 
+# About this plugin
+
+- Simple plugin, that counts the number of lines of the active file
+- The line count will be visible in the status bar
+
 # Resources
 
 - Official [Obsidian Plugin Template](https://github.com/obsidianmd/obsidian-sample-plugin)
@@ -32,7 +37,7 @@
 4. `npm install`
 5. `npm run dev`
 6. In Obsidian, press `Ctrl + P` and select `Reload app without saving`
-7. In Obsidian, go to settings -> Community plugins -> Enable "Example Plugin" 
+7. In Obsidian, go to settings -> Community plugins -> Enable "Example Plugin"
 
 **Commands**
 

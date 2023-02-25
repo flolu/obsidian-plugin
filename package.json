@@ -1,7 +1,7 @@
 {
 	"name": "obsidian-sample-plugin",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "This is an example plugin for Obsidian. This plugin counts the lines of the active file and prints it in the status bar.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
